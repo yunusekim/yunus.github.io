@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Merhaba, Ben Yunus EKİM
 
-You can use the [editor on GitHub](https://github.com/yunusekim/yunus.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+İstanbul doğumluyum ve burada yaşamaktayım. Halihazırda Haber7.com'da Arayüz Geliştirici (Front-end Developer) olarak görev alıyorum. Daha önceki çalıştığım yerler ise: Interacthings, Promoqube. 2009 yılından beri bu sektördeyim. Arayüz tasarımı ve yazılımı uzmanlık alanım.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Beni Takip Edin
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yunusekim/yunus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[twitter](https://www.twitter.com/ynsekim) | [facebook](https://www.facebook.com/yunusekim) | [github](https://www.github.com/yunusekim) | [codepen](https://www.codepen.io/yunusekim) | [linkedin](https://www.linkedin.com/in/yunusekim/) | [dribbble](https://dribbble.com/yunusekim) | [behance](https://www.behance.net/yunusekim)
