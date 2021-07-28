@@ -1,2 +1,2 @@
-# yunus.github.io
-My Resume
+# yunusekim.github.io
+Front-End Developer / UI Designer
